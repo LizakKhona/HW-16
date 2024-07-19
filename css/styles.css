@@ -1,0 +1,13 @@
+
+
+.bg-box {
+    /* outline: 1px solid red; */
+    width: 750px;
+    height: 400px;
+    margin: 0 auto;
+    background-color: green;
+    background-image: url("../images/field.webp"), url("../images/lamp.png"), url("../images/grass.png"), url("../images/hedgehog.webp"), url("../images/donate.png");
+    background-repeat: no-repeat, repeat-x, repeat-x, repeat-y, repeat-y;
+    background-size: 300px, 30px, 165px, 22px, 22px;
+    background-position: center, top, bottom, left, right;
+}
